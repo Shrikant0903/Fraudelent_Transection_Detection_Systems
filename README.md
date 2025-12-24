@@ -1,13 +1,25 @@
-# 🚨 Fraudulent Transaction Detection System using LightGBM
+# 🚨 Fraudulent Transaction Detection System  
+### ⚡ Powered by LightGBM & Machine Learning
 
-A machine learning project to detect fraudulent financial transactions using **LightGBM**, designed to work effectively with **highly imbalanced datasets** common in banking and fintech systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-LightGBM-brightgreen"/>
+  <img src="https://img.shields.io/badge/Python-3.x-blue"/>
+  <img src="https://img.shields.io/badge/Status-Completed-success"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
+</p>
 
 ---
 
 ## 📌 Project Overview
 
-Fraud detection is a critical task in financial systems where fraudulent transactions are very rare but costly.  
-This project builds an end-to-end **Fraud Detection System** using **Light Gradient Boosting Machine (LightGBM)** to classify transactions as fraudulent or legitimate.
+💳 Fraudulent transactions are rare but extremely costly.  
+This project builds an **end-to-end Fraud Detection System** using **LightGBM**, optimized for **highly imbalanced financial datasets**.
+
+✨ **Highlights**
+- 🚀 Fast & scalable LightGBM model  
+- ⚖️ Handles class imbalance effectively  
+- 📊 Focus on Recall, F1-score & ROC-AUC  
+- 🏦 Real-world banking use case  
 
 ---
 
@@ -15,70 +27,72 @@ This project builds an end-to-end **Fraud Detection System** using **Light Gradi
 
 Given historical transaction data, predict whether a transaction is fraudulent.
 
-- **Input:** Transaction-related features  
-- **Output:**  
-  - `0` → Legitimate Transaction  
-  - `1` → Fraudulent Transaction  
+🔹 **Input:** Transaction features  
+🔹 **Output:**  
+- `0` → ✅ Legitimate Transaction  
+- `1` → 🚨 Fraudulent Transaction  
 
 ---
 
 ## 🏗️ System Architecture
 
 📥 **Transaction Data**  
-Raw financial transaction data collected from banking or payment systems.
+Raw financial transactions collected from payment systems.
 
-⬇️
+⬇️  
 
 🧹 **Data Preprocessing**  
-Cleaning missing values, scaling numerical features, and handling imbalance.
+- Missing value handling  
+- Feature scaling  
+- Class imbalance handling  
 
-⬇️
+⬇️  
 
 🧠 **Feature Engineering**  
-Creating meaningful features to improve fraud detection performance.
+- Transaction-based patterns  
+- Amount & time-based features  
 
-⬇️
+⬇️  
 
 📊 **Train–Test Split**  
-Stratified sampling to preserve fraud vs non-fraud distribution.
+Stratified sampling to maintain fraud ratio.
 
-⬇️
+⬇️  
 
 ⚡ **LightGBM Model Training**  
-Training a gradient boosting model optimized for imbalanced data.
+Gradient Boosting model optimized for tabular data.
 
-⬇️
+⬇️  
 
 📈 **Model Evaluation**  
-Performance evaluation using:
-- Precision  
-- Recall  
-- F1-Score  
-- ROC–AUC  
+Evaluated using:
+- 🎯 Precision  
+- 🔁 Recall  
+- 🧮 F1-Score  
+- 📉 ROC–AUC  
 
+---
 
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack & Tools
 
-- **Programming Language:** Python  
-- **Machine Learning Algorithm:** LightGBM  
-- **Libraries Used:**
-  - pandas
-  - numpy
-  - scikit-learn
-  - lightgbm
-  - matplotlib
-  - seaborn
-  - imbalanced-learn
-  - joblib
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-00A000"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+</p>
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation
 
 ```bash
 git clone https://github.com/your-username/Fraudulent_Transaction_Detection_System.git
 cd Fraudulent_Transaction_Detection_System
 pip install -r requirements.txt
+
+
