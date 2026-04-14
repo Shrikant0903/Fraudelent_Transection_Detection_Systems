@@ -20,16 +20,34 @@
 ## 📸 Application Preview  
 
 ### 🔹 Risk Vectoring Dashboard  
-![Risk Vectoring](/Fraud_guard.png)
+<p>
+  <img src="/Fraud_guard.png" width="600"/>
+</p>
+Displays transaction risk scores and patterns to quickly identify suspicious activity.
+
+---
 
 ### 🔹 Fraud Registry  
-![Fraud Registry](Fraud_guard2.png)
+<p>
+  <img src="/Fraud_guard2.png" width="600"/>
+</p>
+Maintains a list of flagged users and fraudulent transactions for monitoring and action.
+
+---
 
 ### 🔹 Access Control System  
-![Access Control](/Fraud_guard3.png)
+<p>
+  <img src="/Fraud_guard3.png" width="600"/>
+</p>
+Restricts or blocks high-risk users to prevent further fraudulent activities.
+
+---
 
 ### 🔹 Forensic Audit Logs  
-![Forensic Audit](/Fraud_guard4.png)
+<p>
+  <img src="/Fraud_guard4.png" width="600"/>
+</p>
+Tracks detailed logs of transactions and system actions for investigation and auditing.
 
 ---
 
