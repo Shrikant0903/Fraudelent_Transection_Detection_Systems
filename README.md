@@ -29,7 +29,7 @@ Displays transaction risk scores and patterns to quickly identify suspicious act
 
 ### 🔹 Fraud Registry  
 <p>
-  <img src="/Fraud_guard2.png" width="600"/>
+  <img src="/Fraud_guard3.png" width="600"/>
 </p>
 Maintains a list of flagged users and fraudulent transactions for monitoring and action.
 
@@ -37,7 +37,7 @@ Maintains a list of flagged users and fraudulent transactions for monitoring and
 
 ### 🔹 Access Control System  
 <p>
-  <img src="/Fraud_guard3.png" width="600"/>
+  <img src="/Fraud_guard2.png" width="600"/>
 </p>
 Restricts or blocks high-risk users to prevent further fraudulent activities.
 
