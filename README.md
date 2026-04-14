@@ -20,16 +20,16 @@
 ## 📸 Application Preview  
 
 ### 🔹 Risk Vectoring Dashboard  
-![Risk Vectoring](./assets/Fraud_guard.png)
+![Risk Vectoring](/Fraud_guard.png)
 
 ### 🔹 Fraud Registry  
-![Fraud Registry](.Fraud_guard2.png)
+![Fraud Registry](Fraud_guard2.png)
 
 ### 🔹 Access Control System  
-![Access Control](./assets/Fraud_guard3.png)
+![Access Control](/Fraud_guard3.png)
 
 ### 🔹 Forensic Audit Logs  
-![Forensic Audit](./assets/Fraud_guard4.png)
+![Forensic Audit](/Fraud_guard4.png)
 
 ---
 
