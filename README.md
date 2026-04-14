@@ -60,3 +60,98 @@ Given historical transaction data, predict whether a transaction is fraudulent.
 ---
 
 ## 🏗️ System Architecture / Flow  
+User → Frontend → Transaction API → Fraud Detection Model (LightGBM) → Prediction (Fraud / Not Fraud) → Database Update → Response to User
+
+
+---
+
+## 🧩 Key Features  
+
+✔ Real-time fraud prediction  
+✔ Risk vector analysis dashboard  
+✔ Fraud registry (flagged users)  
+✔ Access control & restriction system  
+✔ Forensic audit logs  
+✔ Bulk transaction processing  
+✔ Admin monitoring panel  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-00A000"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Installation  
+
+
+git clone https://github.com/your-username/Fraudulent_Transaction_Detection_System.git
+cd Fraudulent_Transaction_Detection_System
+pip install -r requirements.txt
+
+▶️ How to Run
+python app.py
+
+📊 Model Evaluation Metrics
+
+
+🎯 Precision
+
+
+🔁 Recall
+
+
+🧮 F1-Score
+
+
+📉 ROC-AUC
+
+
+
+📈 Sample Use Case
+
+
+Detect suspicious bank transactions
+
+
+Identify high-risk users
+
+
+Prevent fraudulent fund transfers
+
+
+Monitor transactions in real-time
+
+
+
+🚀 Future Improvements
+
+
+🔗 Cloud deployment (AWS / Azure)
+
+
+📡 Real-time streaming with Kafka
+
+
+🤖 Deep learning models (LSTM, Autoencoders)
+
+
+📊 Advanced analytics dashboard
+
+
+
+👨‍💻 Author
+Shrikant Nevase
+🎓 Data Science & Engineering
+
+⭐ If you like this project
+Give it a ⭐ on GitHub!
+---You’re done ✅  Just paste → commit → push 🚀  If you want, next I can make:🔥 Resume points  🔥 Interview explanation script  🔥 GitHub portfolio optimization  Just say 👍
+
