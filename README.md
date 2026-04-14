@@ -19,31 +19,31 @@
 
 ## 📸 Application Preview  
 
-### 🔹 Risk Vectoring Dashboard
+### 🔹 Risk Vectoring Dashboard  
 ![Risk Vectoring](./assets/Fraud_guard.png)
 
-### 🔹 Fraud Registry
+### 🔹 Fraud Registry  
 ![Fraud Registry](./assets/Fraud_guard2.png)
 
-### 🔹 Access Control System
+### 🔹 Access Control System  
 ![Access Control](./assets/Fraud_guard3.png)
 
-### 🔹 Forensic Audit Logs
+### 🔹 Forensic Audit Logs  
 ![Forensic Audit](./assets/Fraud_guard4.png)
 
 ---
 
 ## 📌 Project Overview  
 
-💳 Fraudulent transactions are rare but extremely costly.  
-This project builds an **end-to-end Fraud Detection System** using **LightGBM**, optimized for **highly imbalanced financial datasets**.
+💳 Fraudulent transactions are rare but highly impactful.  
+This project presents an **end-to-end Fraud Detection System** using **LightGBM**, designed to handle **highly imbalanced financial datasets** efficiently.
 
-✨ **Highlights**
-- 🚀 Fast & scalable LightGBM model  
+### ✨ Highlights
+- 🚀 Fast and scalable LightGBM model  
 - ⚖️ Handles class imbalance effectively  
-- 📊 Focus on Recall, F1-score & ROC-AUC  
+- 📊 Focus on Recall, F1-score, and ROC-AUC  
 - 🏦 Real-world banking use case  
-- 🎯 Interactive dashboard for fraud monitoring  
+- 🎯 Interactive monitoring dashboard  
 - ⚡ Real-time prediction system  
 
 ---
@@ -52,16 +52,18 @@ This project builds an **end-to-end Fraud Detection System** using **LightGBM**,
 
 Given historical transaction data, predict whether a transaction is fraudulent.
 
-🔹 **Input:** Transaction features  
-🔹 **Output:**  
+### 🔹 Input:
+Transaction features  
+
+### 🔹 Output:
 - `0` → ✅ Legitimate Transaction  
 - `1` → 🚨 Fraudulent Transaction  
 
 ---
 
-## 🏗️ System Architecture / Flow  
-User → Frontend → Transaction API → Fraud Detection Model (LightGBM) → Prediction (Fraud / Not Fraud) → Database Update → Response to User
+## 🏗️ System Architecture  
 
+User → Frontend → Transaction API → Fraud Detection Model (LightGBM) → Prediction (Fraud / Not Fraud) → Database Update → Response to User
 
 ---
 
@@ -77,81 +79,19 @@ User → Frontend → Transaction API → Fraud Detection Model (LightGBM) → P
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-00A000"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-</p>
+- Python  
+- LightGBM  
+- Scikit-learn  
+- Pandas  
+- NumPy  
 
 ---
 
 ## ⚙️ Installation  
 
-
+```bash
 git clone https://github.com/your-username/Fraudulent_Transaction_Detection_System.git
 cd Fraudulent_Transaction_Detection_System
 pip install -r requirements.txt
-
-▶️ How to Run
-python app.py
-
-📊 Model Evaluation Metrics
-
-
-🎯 Precision
-
-
-🔁 Recall
-
-
-🧮 F1-Score
-
-
-📉 ROC-AUC
-
-
-
-📈 Sample Use Case
-
-
-Detect suspicious bank transactions
-
-
-Identify high-risk users
-
-
-Prevent fraudulent fund transfers
-
-
-Monitor transactions in real-time
-
-
-
-🚀 Future Improvements
-
-
-🔗 Cloud deployment (AWS / Azure)
-
-
-📡 Real-time streaming with Kafka
-
-
-🤖 Deep learning models (LSTM, Autoencoders)
-
-
-📊 Advanced analytics dashboard
-
-
-
-👨‍💻 Author
-Shrikant Nevase
-🎓 Data Science & Engineering
-
-⭐ If you like this project
-Give it a ⭐ on GitHub!
----You’re done ✅  Just paste → commit → push 🚀  If you want, next I can make:🔥 Resume points  🔥 Interview explanation script  🔥 GitHub portfolio optimization  Just say 👍
-
