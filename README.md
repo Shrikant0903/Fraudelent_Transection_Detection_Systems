@@ -1,5 +1,5 @@
 # 🚨 Fraudulent Transaction Detection System  
-### ⚡ Powered by LightGBM & Machine Learning
+### ⚡ Powered by LightGBM & Machine Learning  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-LightGBM-brightgreen"/>
@@ -10,7 +10,30 @@
 
 ---
 
-## 📌 Project Overview
+## 🌐 Live Demo  
+
+🚀 **Try the Application Here:**  
+👉 https://nexttoken.co/apps/ws_mnetrsij0uo8bzsre0tj/fraud_detector  
+
+---
+
+## 📸 Application Preview  
+
+### 🔹 Risk Vectoring Dashboard
+![Risk Vectoring](./assets/Fraud_guard.png)
+
+### 🔹 Fraud Registry
+![Fraud Registry](./assets/Fraud_guard2.png)
+
+### 🔹 Access Control System
+![Access Control](./assets/Fraud_guard3.png)
+
+### 🔹 Forensic Audit Logs
+![Forensic Audit](./assets/Fraud_guard4.png)
+
+---
+
+## 📌 Project Overview  
 
 💳 Fraudulent transactions are rare but extremely costly.  
 This project builds an **end-to-end Fraud Detection System** using **LightGBM**, optimized for **highly imbalanced financial datasets**.
@@ -20,10 +43,12 @@ This project builds an **end-to-end Fraud Detection System** using **LightGBM**,
 - ⚖️ Handles class imbalance effectively  
 - 📊 Focus on Recall, F1-score & ROC-AUC  
 - 🏦 Real-world banking use case  
+- 🎯 Interactive dashboard for fraud monitoring  
+- ⚡ Real-time prediction system  
 
 ---
 
-## 🧠 Problem Statement
+## 🧠 Problem Statement  
 
 Given historical transaction data, predict whether a transaction is fraudulent.
 
@@ -34,65 +59,4 @@ Given historical transaction data, predict whether a transaction is fraudulent.
 
 ---
 
-## 🏗️ System Architecture
-
-📥 **Transaction Data**  
-Raw financial transactions collected from payment systems.
-
-⬇️  
-
-🧹 **Data Preprocessing**  
-- Missing value handling  
-- Feature scaling  
-- Class imbalance handling  
-
-⬇️  
-
-🧠 **Feature Engineering**  
-- Transaction-based patterns  
-- Amount & time-based features  
-
-⬇️  
-
-📊 **Train–Test Split**  
-Stratified sampling to maintain fraud ratio.
-
-⬇️  
-
-⚡ **LightGBM Model Training**  
-Gradient Boosting model optimized for tabular data.
-
-⬇️  
-
-📈 **Model Evaluation**  
-Evaluated using:
-- 🎯 Precision  
-- 🔁 Recall  
-- 🧮 F1-Score  
-- 📉 ROC–AUC  
-
----
-
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-00A000"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-</p>
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/Fraudulent_Transaction_Detection_System.git
-cd Fraudulent_Transaction_Detection_System
-pip install -r requirements.txt
-
-
+## 🏗️ System Architecture / Flow  
