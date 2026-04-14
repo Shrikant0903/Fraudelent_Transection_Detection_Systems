@@ -37,7 +37,7 @@ Maintains a list of flagged users and fraudulent transactions for monitoring and
 
 ### 🔹 Access Control System  
 <p>
-  <img src="/Fraud_guard2.png" width="600"/>
+  <img src="/Fraud_guard4.png" width="600"/>
 </p>
 Restricts or blocks high-risk users to prevent further fraudulent activities.
 
@@ -45,7 +45,7 @@ Restricts or blocks high-risk users to prevent further fraudulent activities.
 
 ### 🔹 Forensic Audit Logs  
 <p>
-  <img src="/Fraud_guard4.png" width="600"/>
+  <img src="/Fraud_gurad2.png" width="600"/>
 </p>
 Tracks detailed logs of transactions and system actions for investigation and auditing.
 
