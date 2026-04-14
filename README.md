@@ -23,7 +23,7 @@
 ![Risk Vectoring](./assets/Fraud_guard.png)
 
 ### 🔹 Fraud Registry  
-![Fraud Registry](./assets/Fraud_guard2.png)
+![Fraud Registry](.Fraud_guard2.png)
 
 ### 🔹 Access Control System  
 ![Access Control](./assets/Fraud_guard3.png)
